@@ -1,6 +1,7 @@
 ### Hi there I'm Karniela👋
-- 🌱 Research Topics: Machine Learning(ML), Computer Vision(CV), Digital Circuit Design 
-- 🔭 Programming Languages: Python, C++, Verilog
+- 🌱 Research Topics: Machine Learning(ML)/Computer Vision(CV)/Digital Circuit Design 
+- 🔭 Programming Languages: Python/C++/Verilog
+
 📫 karniela.liao@gmail.com
 <!--
 **Karniela/Karniela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
