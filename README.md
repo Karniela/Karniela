@@ -1,6 +1,6 @@
 ### Hi there I'm Karniela👋
-- 🌱 Research Topics: Machine Learning(ML)/Computer Vision(CV)/Digital Circuit Design 
-- 🔭 Programming Languages: Python/C++/Verilog
+- 🌱 Topics: Digital Circuit Design & Verification 
+- 🔭 Programming Languages: Verilog/System Verilog/C/C++/Python
 
 📫 karniela.liao@gmail.com
 <!--
